@@ -6,6 +6,9 @@ This repository contains the assignments I have done. The course is **free** but
 
 The course is great! You will design and implement Neural Networks for image recognition, natural language processing with embeddings and character based text generation with RNN/LTSM and Seq2Seq.
 
+## Support links
+ * [Links](LINKS.md)
+
 ## Credits
 
 + all the assignments come from [Udacity](https://www.udacity.com/course/deep-learning--ud730) and the [TensorFlow repository](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/udacity)
