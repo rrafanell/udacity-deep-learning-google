@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+__pycache__/
+not_mnist_dataset/
+text8.zip
